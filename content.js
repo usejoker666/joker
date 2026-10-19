@@ -8,7 +8,7 @@ const portfolio = {
   status: "持续充电中",
   location: "中国 · 北京",
   email: "joker2360167455@qq.com",
-  github: "https://github.com/usejoker666",
+  github: "https://github.com/usejoker666/joker",
   csdn: "https://www.csdn.net/",
   gitee: "https://gitee.com/",
   resumeUrl: "",
